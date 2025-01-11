@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7" style="fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597" y="80" as="sourcePoint" />
+            <mxPoint x="597" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-56" target="s0EjWPDGW51dtwz-jbb0-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-56" value="O usuário insere dados no campo &quot;Nome&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="120" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-57" value="INÍCIO" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="537" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-59" target="s0EjWPDGW51dtwz-jbb0-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="462" y="840" />
+              <mxPoint x="597" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-59" value="Uma mensagem de erro aparece na tela, e a conta não é criada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="770" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-60" target="s0EjWPDGW51dtwz-jbb0-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-60" value="O usuário insere dados no campo &quot;E-mail&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="210" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-61" target="s0EjWPDGW51dtwz-jbb0-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-61" value="O usuário insere dados no campo &quot;Senha&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="300" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-62" target="s0EjWPDGW51dtwz-jbb0-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-62" value="O usuário insere dados no campo &quot;Confirme a senha&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="388.5" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-63" value="O usuário insere dados no campo &quot;Nome&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="480" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-64" value="O usuário aperta o botão &quot;Enviar&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="570" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-65" target="s0EjWPDGW51dtwz-jbb0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-65" value="O usuário insere dados no campo &quot;Data de nascimento&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="480" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="s0EjWPDGW51dtwz-jbb0-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597" y="750" as="sourcePoint" />
+            <mxPoint x="734.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-67" target="s0EjWPDGW51dtwz-jbb0-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-67" value="os dados de&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;entrada nos&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;campos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;são&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;validos?&lt;/span&gt;&lt;/div&gt;" style="rhombus;align=center;verticalAlign=middle;fontSize=12;html=1;whiteSpace=wrap;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="502" y="660" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s0EjWPDGW51dtwz-jbb0-80" target="s0EjWPDGW51dtwz-jbb0-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="735" y="840" />
+              <mxPoint x="597" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-80" value="Conta criada" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="652" y="780" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-81" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="537" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-87" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487" y="720" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s0EjWPDGW51dtwz-jbb0-88" value="SIM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652" y="720" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
