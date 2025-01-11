@@ -136,4 +136,4 @@ No Sprint 1, foram abordados fundamentos base, como ciclo de vida de desenvolvim
 - Como usar classes de equivalência em casos de teste.
 
 **Capítulo 5 - Projeto Sprint 2**
-
+jjkjjkk
